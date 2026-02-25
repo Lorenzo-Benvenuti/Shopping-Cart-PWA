@@ -1,0 +1,90 @@
+{
+  "categories": [
+    {
+      "id": "dispensa",
+      "label": "Pantry"
+    },
+    {
+      "id": "freschi",
+      "label": "Fresh"
+    },
+    {
+      "id": "cura_casa",
+      "label": "Home care"
+    }
+  ],
+  "products": [
+    {
+      "id": "dispensa_01",
+      "category": "dispensa",
+      "name": "Pasta",
+      "description": "Durum wheat pasta 500 g",
+      "price": 1.29,
+      "image": "assets/img/dispensa_01.svg"
+    },
+    {
+      "id": "dispensa_02",
+      "category": "dispensa",
+      "name": "Tomato passata",
+      "description": "Bottle 700 g",
+      "price": 1.49,
+      "image": "assets/img/dispensa_02.svg"
+    },
+    {
+      "id": "dispensa_03",
+      "category": "dispensa",
+      "name": "Canned tuna",
+      "description": "Pack of 3×80 g",
+      "price": 3.39,
+      "image": "assets/img/dispensa_03.svg"
+    },
+    {
+      "id": "freschi_04",
+      "category": "freschi",
+      "name": "Whole milk",
+      "description": "1 L",
+      "price": 1.19,
+      "image": "assets/img/freschi_04.svg"
+    },
+    {
+      "id": "freschi_05",
+      "category": "freschi",
+      "name": "Eggs",
+      "description": "Pack of 6",
+      "price": 1.89,
+      "image": "assets/img/freschi_05.svg"
+    },
+    {
+      "id": "freschi_06",
+      "category": "freschi",
+      "name": "Mozzarella",
+      "description": "125 g",
+      "price": 1.05,
+      "image": "assets/img/freschi_06.svg"
+    },
+    {
+      "id": "cura_casa_07",
+      "category": "cura_casa",
+      "name": "Dish soap",
+      "description": "750 ml",
+      "price": 1.99,
+      "image": "assets/img/cura_casa_07.svg"
+    },
+    {
+      "id": "cura_casa_08",
+      "category": "cura_casa",
+      "name": "Toilet paper",
+      "description": "4 rolls",
+      "price": 2.49,
+      "image": "assets/img/cura_casa_08.svg"
+    },
+    {
+      "id": "cura_casa_09",
+      "category": "cura_casa",
+      "name": "Degreaser",
+      "description": "Spray 500 ml",
+      "price": 2.19,
+      "image": "assets/img/cura_casa_09.svg"
+    }
+  ]
+}

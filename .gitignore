@@ -1,0 +1,28 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Build / cache
+dist/
+.cache/
+playwright-report/
+test-results/
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
