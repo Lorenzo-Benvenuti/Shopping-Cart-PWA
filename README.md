@@ -6,8 +6,6 @@
 An **offline-first PWA** that loads a product catalog from JSON and lets you manage a **persistent shopping cart** via `localStorage`.
 Designed as a portfolio project: **PWA + clean UX + CI + Playwright E2E tests**.
 
-- **Repo:** `https://github.com/Lorenzo-Benvenuti/Shopping-Cart-PWA`
-
 ---
 
 ## Features
@@ -99,7 +97,7 @@ tests/
 
 ---
 
-## Roadmap (from portfolio to product)
+## Roadmap
 
 - [ ] Product search + sorting
 - [ ] Better offline UX (richer connection state and cache status)
